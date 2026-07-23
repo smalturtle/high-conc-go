@@ -1,3 +1,3 @@
-module project-allin-go
+module high-conc-go
 
 go 1.25.12

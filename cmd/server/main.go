@@ -13,9 +13,9 @@ import (
 	"syscall"
 	"time"
 
-	"project-allin-go/internal/pipeline"
-	"project-allin-go/internal/pool"
-	"project-allin-go/internal/session"
+	"high-conc-go/internal/pipeline"
+	"high-conc-go/internal/pool"
+	"high-conc-go/internal/session"
 )
 
 func main() {
